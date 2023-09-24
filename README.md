@@ -31,6 +31,7 @@ The project also implement a basic debuging UI to enable/change some parameters.
 
 ## Camera
 ![camera](https://safe.lyly.moe/fSfhAwVg6FOl.png)
+
 Here you can change some of the camera variables to find the ones that feel the best.
 
 The defaults are some sensible values that are a good starting zone.
