@@ -1,5 +1,5 @@
 # Unreal Pathfinding
-Weight based A* pathfinding implemented on Unreal Engine blueprints.
+Weight based A* pathfinding implemented on Unreal Engine using Blueprints.
 
 ![main image](assets/pathfinding.gif)
 
@@ -8,7 +8,7 @@ Weight based A* pathfinding implemented on Unreal Engine blueprints.
 - W/A/S/D: Move Camera
 - Mouse Wheel Up/Down: Zoom In/Out Camera
 
-The obstacle base clase can be inherited, allowing the modification of the `Satic Mesh` and the `TileType enum` value.
+The obstacle base class can be inherited, allowing the modification of the `Satic Mesh` and the `TileType enum` value.
 In the current example the following are implemented:
 - None
 - Normal -> 1
