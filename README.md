@@ -1,7 +1,7 @@
 # Unreal Pathfinding
 Weight based A* pathfinding implemented on Unreal Engine blueprints.
 
-![main image](https://safe.lyly.moe/pynmAXPqzLjN.gif)
+![main image](assets/pathfinding.gif)
 
 ## Controls
 - Q/E: Rotate Camera
