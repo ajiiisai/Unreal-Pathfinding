@@ -10,7 +10,7 @@ Weight based A* pathfinding implemented on Unreal Engine using Blueprints.
 
 ## Functionality
 
-Each tile has a cost, the algorithm will skip to the adjacent tile with the lower cost and repeat the process until it reaches the destination. Since it can take multiple paths at the end it will chose the one with the lower total path cost.
+Each tile has a cost, denoted by the number in the top right, the algorithm will skip to the adjacent tile with the lower cost and repeat the process until it reaches the destination. Since it can take multiple paths at the end it will chose the one with the lower total path cost.
 It will try to avoid obstacles with a high tile cost but will cross them if the overall cost is lower than the detour.
 
 The obstacle base class can be inherited, allowing the modification of the `Satic Mesh` and the `TileType enum` value.
